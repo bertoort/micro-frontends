@@ -1,0 +1,17 @@
+.map {
+  width: 500px;
+  height: 300px;
+  border-radius: 5px;
+  margin: auto;
+  margin-top: 200px;
+  border: 1px solid #61dafb;
+}
+
+.popup {
+  color: black;
+}
+
+.popup h5,
+.popup p {
+  margin: 0;
+}
